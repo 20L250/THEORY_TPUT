@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id CALC
+id CR_TEXT
+id Compo
+id MIMO_NUM
+id NUMER_TEXT
+id OH_TXT
+id PRB_TEXT
+id SCAL_FACT_TXT
+id TPUT
+id crate
+id mod_ord
+id modord_txt
+id modord_txt2
+id num_carriers
+id numer
+id overhead
+id prbCount
+id sf
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string select
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
