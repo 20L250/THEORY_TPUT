@@ -1,9 +1,0 @@
-com.example.myapplication.test.app-annotation-experimental-1.3.0-0 C:\Users\SUMITH\.gradle\caches\transforms-3\0eca03580f9393237cfddda5e235c162\transformed\annotation-experimental-1.3.0\res
-com.example.myapplication.test.app-core-1.5.0-1 C:\Users\SUMITH\.gradle\caches\transforms-3\6d73b233a2dd634091355a9d48367e56\transformed\core-1.5.0\res
-com.example.myapplication.test.app-androidTest-2 C:\Users\SUMITH\AndroidStudioProjects\THEORY_TPUT-master\app\build\generated\res\resValues\androidTest\debug
-com.example.myapplication.test.app-androidTest-3 C:\Users\SUMITH\AndroidStudioProjects\THEORY_TPUT-master\app\build\generated\res\rs\androidTest\debug
-com.example.myapplication.test.app-mergeDebugAndroidTestResources-4 C:\Users\SUMITH\AndroidStudioProjects\THEORY_TPUT-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.myapplication.test.app-mergeDebugAndroidTestResources-5 C:\Users\SUMITH\AndroidStudioProjects\THEORY_TPUT-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.myapplication.test.app-merged_res-6 C:\Users\SUMITH\AndroidStudioProjects\THEORY_TPUT-master\app\build\intermediates\merged_res\debugAndroidTest
-com.example.myapplication.test.app-androidTest-7 C:\Users\SUMITH\AndroidStudioProjects\THEORY_TPUT-master\app\src\androidTest\res
-com.example.myapplication.test.app-androidTestDebug-8 C:\Users\SUMITH\AndroidStudioProjects\THEORY_TPUT-master\app\src\androidTestDebug\res
